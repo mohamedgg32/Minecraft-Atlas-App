@@ -1,0 +1,6 @@
+{
+  "name": "Seed Generate",
+  "description": "Minecraft Java 26.2 seed explorer, world configuration, and interactive biome/structure map with Fabric modded world-generation support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
